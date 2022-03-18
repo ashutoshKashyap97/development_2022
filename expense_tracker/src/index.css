@@ -10,6 +10,17 @@ html {
 
 body {
   margin: 0;
-  background-color: #3f3f3f;
+  background-color: #ad4242;
 }
 
+.ashu {
+  background-color: aqua;
+  text-decoration-style: wavy;
+  text-decoration-color: blue;
+}
+
+Heading {
+  background-color: aqua;
+  text-decoration-style: wavy;
+  text-decoration-color: blue;
+}
