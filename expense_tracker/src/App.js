@@ -31,6 +31,7 @@ function App() {
   };
   return (
     <div>
+      <h2>Gungun Expense Tracker</h2>
       <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items={expenses}></Expenses>
     </div>
